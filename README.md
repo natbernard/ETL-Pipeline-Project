@@ -16,6 +16,6 @@ The repository contains five files and one folder. The folder contains the data 
 - sql_queries.py contains the sql queries.
 - test.ipynb checks if data is uploaded to the tables in the database.
 
-## Database schema
+### Database schema
 The database organizational structure for the Sparkify database is the star schema. It contains the songplay table as the fact tables and the rest as the dimension tables. The star schema is optimized for simpler queries and fast aggregations.
 
